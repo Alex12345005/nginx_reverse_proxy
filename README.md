@@ -1,1 +1,1 @@
-# nginx_reverse_proxy
+# nginx_reverse_proxy with and without Loadbalancer
